@@ -1,0 +1,7 @@
+name             'alb_support'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Forked from opsworks-example-cookbooks repo'
+long_description 'Forked from opsworks-example-cookbooks repo'
+version          '1.0.0'
